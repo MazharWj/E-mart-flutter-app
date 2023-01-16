@@ -8,8 +8,7 @@ class SellerProfileScreen extends StatelessWidget {
     return Column(
       children: [
         "Working on it".text.makeCentered(),
-      ],
-
+        ],
     );
   }
 }
