@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "14705173258",
+    "project_id": "e-mart-app-10d84",
+    "storage_bucket": "e-mart-app-10d84.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:14705173258:android:edf6394ad586fd3d7f90f3",
+        "android_client_info": {
+          "package_name": "com.example.emart_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "14705173258-e3gor37l3opivs2g8jagct8it7uicput.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.emart_app",
+            "certificate_hash": "1c29ade243ba80ab406306683694539a041831ee"
+          }
+        },
+        {
+          "client_id": "14705173258-pi29eo94d8vq7jm3g1hlde3skjqi370j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfFAurAiCgvONIwuKXEX9ccvBD6Vzqge8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "14705173258-pi29eo94d8vq7jm3g1hlde3skjqi370j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
